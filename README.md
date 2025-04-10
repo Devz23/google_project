@@ -1,8 +1,8 @@
-# google_project
+# Google_project
 
 ## Goal
-Reproduce google landing page, triying to replicate as much as possible 
+* Reproduce google landing page
 
 ## Technologies Used
-HTML
-CSS
+* HTML5
+* CSS3
