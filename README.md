@@ -1,7 +1,7 @@
 # Google_project
 
 ## Goal
-* Reproduce google landing page
+* Reproduce Google's landing page
 
 ## Technologies Used
 * HTML5
